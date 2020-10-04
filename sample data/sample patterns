@@ -1,1 +1,5 @@
+# Matches 6 digit patterns divided into groups of three, seperated by dashes
+\d\d-\d\d-\d\d
 
+# Matches digits, including those with a suffix
+0-9]?\d|yr|th
