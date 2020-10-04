@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xryfile xrycoreversion="" exporterversion="" schemaversion="">
+  <images>
+    <image filename="" id="" name="" type="" xryversion="">
+      <views>
+        <view type="summary_view">
+          <nodes>
+            <node>
+              <properties>
+                <property type="related_application">APP_APPLE_SMS_MMS</property>
+                <property type="text_body">it's his 18th birthday today </property>
+              </properties>
+            </node>
+            <node>
+              <tags>
+                <tag isuseradded="True">test</tag>
+              </tags>
+              <properties>
+                <property type="related_application">APP_APPLE_SMS_MMS</property>
+                <property type="text_body">wow! He's 18yo already, I'll send him some money, whats his bank details?</property>
+              </properties>
+            </node>
+          </nodes>
+        </view>
+        <view type="chat_view">
+          <nodes>
+            <node>
+              <tags>
+                <tag isuseradded="True">test</tag>
+              </tags>
+              <properties>
+                <property type="related_application">APP_APPLE_IMESSAGE</property>
+                <property type="text_body">sort code: 11-22-33</property>
+              </properties>
+            </node>
+            <node>
+              <tags>
+                <tag isuseradded="True">test</tag>
+              </tags>
+              <properties>
+                <property type="related_application">APP_APPLE_IMESSAGE</property>
+                <property type="text_body">acc no: 09841331</property>
+              </properties>
+            </node>
+            <node>
+              <tags>
+                <tag isuseradded="True">test</tag>
+              </tags>
+              <properties>
+                <property type="related_application">APP_APPLE_IMESSAGE</property>
+                <property type="text_body">thats fab! thank you</property>
+              </properties>
+            </node>
+            <node>
+              <tags>
+                <tag isuseradded="True">test</tag>
+              </tags>
+              <properties>
+                <property type="related_application">APP_APPLE_IMESSAGE</property>
+                <property type="text_body">no problem :)</property>
+              </properties>
+            </node>
+          </nodes>
+        </view>
+      </views>
+    </image>
+  </images>
+</xryfile>
